@@ -67,3 +67,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+pre.mermaid {
+  font-family: 'trebuchet ms', verdana, arial;
+}
